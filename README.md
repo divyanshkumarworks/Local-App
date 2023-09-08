@@ -11,7 +11,11 @@ Provide a brief description of your Node.js service. Explain what it does, its p
 - [Configuration](#configuration)
 - [API Endpoints](#api-endpoints)
 
-## Installation
+## Getting Started: 🚀
+
+Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
+
+### Installation
 
 Provide instructions on how to install and set up your Node.js service. Include any prerequisites and step-by-step installation instructions.
 
