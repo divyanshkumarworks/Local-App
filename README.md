@@ -32,6 +32,8 @@ npm install
 - `3000`: The port on which the service listens.
 - `API_KEY`: An API key required for news_api authentication. link to register and get Api Key: [https://newsapi.org/register](https://newsapi.org/register) 
 
+## Api Endpoints
+
 ### GET /news/search
 
 **Description**: Retrieve newslist.
