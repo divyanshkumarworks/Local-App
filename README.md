@@ -17,8 +17,6 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ### Installation
 
-Provide instructions on how to install and set up your Node.js service. Include any prerequisites and step-by-step installation instructions.
-
 1. clone this repository 
 ```bash
 git clone https://github.com/your/repository.git
